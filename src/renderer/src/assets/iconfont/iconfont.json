@@ -1,0 +1,219 @@
+{
+  "id": "4768789",
+  "name": "墨莉音乐",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "15766675",
+      "name": "播放中",
+      "font_class": "song-playing",
+      "unicode": "e618",
+      "unicode_decimal": 58904
+    },
+    {
+      "icon_id": "14953786",
+      "name": "暂停",
+      "font_class": "audio-paused",
+      "unicode": "e699",
+      "unicode_decimal": 59033
+    },
+    {
+      "icon_id": "7594083",
+      "name": "列表循环",
+      "font_class": "audio-list-circle",
+      "unicode": "ea75",
+      "unicode_decimal": 60021
+    },
+    {
+      "icon_id": "7594088",
+      "name": "单曲循环",
+      "font_class": "audio-loop",
+      "unicode": "ea76",
+      "unicode_decimal": 60022
+    },
+    {
+      "icon_id": "18640006",
+      "name": "顺序播放",
+      "font_class": "audio-order",
+      "unicode": "e797",
+      "unicode_decimal": 59287
+    },
+    {
+      "icon_id": "22978036",
+      "name": "音量1",
+      "font_class": "audio-voice-level-1",
+      "unicode": "e8a0",
+      "unicode_decimal": 59552
+    },
+    {
+      "icon_id": "22978040",
+      "name": "音量3",
+      "font_class": "audio-voice-level-3",
+      "unicode": "e8a1",
+      "unicode_decimal": 59553
+    },
+    {
+      "icon_id": "22978045",
+      "name": "音量2",
+      "font_class": "audio-voice-level-2",
+      "unicode": "e8a2",
+      "unicode_decimal": 59554
+    },
+    {
+      "icon_id": "25514103",
+      "name": "音乐列表",
+      "font_class": "play-list",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "26535224",
+      "name": "播放",
+      "font_class": "play",
+      "unicode": "e620",
+      "unicode_decimal": 58912
+    },
+    {
+      "icon_id": "39642787",
+      "name": "上一曲",
+      "font_class": "audio-prev",
+      "unicode": "e637",
+      "unicode_decimal": 58935
+    },
+    {
+      "icon_id": "39642791",
+      "name": "下一曲",
+      "font_class": "audio-next",
+      "unicode": "e63a",
+      "unicode_decimal": 58938
+    },
+    {
+      "icon_id": "7325988",
+      "name": "暂停_",
+      "font_class": "song-pause",
+      "unicode": "e68c",
+      "unicode_decimal": 59020
+    },
+    {
+      "icon_id": "7325990",
+      "name": "播放_",
+      "font_class": "song-play",
+      "unicode": "e68e",
+      "unicode_decimal": 59022
+    },
+    {
+      "icon_id": "12672821",
+      "name": "更多",
+      "font_class": "song-more",
+      "unicode": "e67f",
+      "unicode_decimal": 59007
+    },
+    {
+      "icon_id": "11349164",
+      "name": "music-rl",
+      "font_class": "menu-music",
+      "unicode": "e645",
+      "unicode_decimal": 58949
+    },
+    {
+      "icon_id": "5474831",
+      "name": "音乐",
+      "font_class": "logo",
+      "unicode": "e639",
+      "unicode_decimal": 58937
+    },
+    {
+      "icon_id": "7029943",
+      "name": "刷新",
+      "font_class": "refresh",
+      "unicode": "e631",
+      "unicode_decimal": 58929
+    },
+    {
+      "icon_id": "11805818",
+      "name": "关闭",
+      "font_class": "window-close",
+      "unicode": "e611",
+      "unicode_decimal": 58897
+    },
+    {
+      "icon_id": "649313",
+      "name": "左",
+      "font_class": "arrow-left",
+      "unicode": "e635",
+      "unicode_decimal": 58933
+    },
+    {
+      "icon_id": "649314",
+      "name": "右",
+      "font_class": "arrow-right",
+      "unicode": "e636",
+      "unicode_decimal": 58934
+    },
+    {
+      "icon_id": "42230762",
+      "name": "爱心-fill",
+      "font_class": "love-fill",
+      "unicode": "e817",
+      "unicode_decimal": 59415
+    },
+    {
+      "icon_id": "42230763",
+      "name": "爱心-outline",
+      "font_class": "love-outline",
+      "unicode": "e818",
+      "unicode_decimal": 59416
+    },
+    {
+      "icon_id": "10333707",
+      "name": "菜单",
+      "font_class": "menu",
+      "unicode": "e624",
+      "unicode_decimal": 58916
+    },
+    {
+      "icon_id": "11490920",
+      "name": "最大化",
+      "font_class": "window-maximize",
+      "unicode": "e651",
+      "unicode_decimal": 58961
+    },
+    {
+      "icon_id": "12022358",
+      "name": "最小化",
+      "font_class": "window-minimize",
+      "unicode": "e6b9",
+      "unicode_decimal": 59065
+    },
+    {
+      "icon_id": "30970631",
+      "name": "窗口化",
+      "font_class": "window-windowing",
+      "unicode": "e60f",
+      "unicode_decimal": 58895
+    },
+    {
+      "icon_id": "9030999",
+      "name": "喜欢",
+      "font_class": "menu-love",
+      "unicode": "e643",
+      "unicode_decimal": 58947
+    },
+    {
+      "icon_id": "11391545",
+      "name": "历史",
+      "font_class": "menu-history",
+      "unicode": "e638",
+      "unicode_decimal": 58936
+    },
+    {
+      "icon_id": "32961252",
+      "name": "专辑",
+      "font_class": "menu-album",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    }
+  ]
+}

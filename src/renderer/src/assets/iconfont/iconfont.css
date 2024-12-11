@@ -1,0 +1,135 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 4768789 */
+  src: url('iconfont.woff2?t=1733640678600') format('woff2'),
+       url('iconfont.woff?t=1733640678600') format('woff'),
+       url('iconfont.ttf?t=1733640678600') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-song-playing:before {
+  content: "\e618";
+}
+
+.icon-audio-paused:before {
+  content: "\e699";
+}
+
+.icon-audio-list-circle:before {
+  content: "\ea75";
+}
+
+.icon-audio-loop:before {
+  content: "\ea76";
+}
+
+.icon-audio-order:before {
+  content: "\e797";
+}
+
+.icon-audio-voice-level-1:before {
+  content: "\e8a0";
+}
+
+.icon-audio-voice-level-3:before {
+  content: "\e8a1";
+}
+
+.icon-audio-voice-level-2:before {
+  content: "\e8a2";
+}
+
+.icon-play-list:before {
+  content: "\e601";
+}
+
+.icon-play:before {
+  content: "\e620";
+}
+
+.icon-audio-prev:before {
+  content: "\e637";
+}
+
+.icon-audio-next:before {
+  content: "\e63a";
+}
+
+.icon-song-pause:before {
+  content: "\e68c";
+}
+
+.icon-song-play:before {
+  content: "\e68e";
+}
+
+.icon-song-more:before {
+  content: "\e67f";
+}
+
+.icon-menu-music:before {
+  content: "\e645";
+}
+
+.icon-logo:before {
+  content: "\e639";
+}
+
+.icon-refresh:before {
+  content: "\e631";
+}
+
+.icon-window-close:before {
+  content: "\e611";
+}
+
+.icon-arrow-left:before {
+  content: "\e635";
+}
+
+.icon-arrow-right:before {
+  content: "\e636";
+}
+
+.icon-love-fill:before {
+  content: "\e817";
+}
+
+.icon-love-outline:before {
+  content: "\e818";
+}
+
+.icon-menu:before {
+  content: "\e624";
+}
+
+.icon-window-maximize:before {
+  content: "\e651";
+}
+
+.icon-window-minimize:before {
+  content: "\e6b9";
+}
+
+.icon-window-windowing:before {
+  content: "\e60f";
+}
+
+.icon-menu-love:before {
+  content: "\e643";
+}
+
+.icon-menu-history:before {
+  content: "\e638";
+}
+
+.icon-menu-album:before {
+  content: "\e600";
+}
+
