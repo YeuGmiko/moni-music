@@ -1,10 +1,11 @@
+import { app } from 'electron'
 export const DEFAULT_APP_STATE: App.State = {
   HomeRouteName: 'music',
   Theme: 'system'
 }
 export const DEFAULT_APP_DATA: App.Data = {
   Songs: [],
-  MusicLibrary: ['E:\\Musics\\MyMusic'],
+  MusicLibrary: [app.getPath('music')],
   MusicPaths: []
 }
 
