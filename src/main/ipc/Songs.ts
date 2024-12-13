@@ -1,6 +1,6 @@
 import { ipcMain } from 'electron'
 import { AppStoreChannel, ElectronStoreKey, SongChannel } from '@common/constants'
-import { getSongCoverDataUrl, getSongDataUrl, updateMusic, updateSongInfo } from '../utils/songs'
+import { getSongCoverDataUrl, getSongDataUrl, updateMusic, updateSongInfo } from '../service/songs'
 import { get } from '../store'
 
 export default () => {
