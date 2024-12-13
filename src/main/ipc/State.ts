@@ -1,16 +1,13 @@
 import { ipcMain } from 'electron'
-import { StateChannel } from '@common/constants'
-import { fetchAppData, fetchAppState } from '../store'
+import { AppStoreChannel, ElectronStoreKey } from '@common/constants'
+import { get } from '../store'
 
 export default () => {
-  console.log('setup state ipc')
-  ipcMain.handle(StateChannel.FETCH_APP_STATE, () => {
-    return fetchAppState()
-  })
-  ipcMain.handle(StateChannel.FETCH_MUSIC_LIBRARY, () => {
-    return fetchAppData().MusicLibrary
-  })
-  ipcMain.handle(StateChannel.FETCH_MUSIC_PATHS, () => {
-    return fetchAppData().MusicPaths
-  })
+    console.log('setup state ipc')
+    ipcMain.handle(AppStoreChannel.FETCH_MUSIC_LIBRARY, () => {
+        return get(ElectronStoreKey.DATA.MUSIC_LIBRARY)
+    })
+    ipcMain.handle(AppStoreChannel.FETCH_MUSIC_PATHS, () => {
+        return get(ElectronStoreKey.DATA.MUSIC_PATHS)
+    })
 }
