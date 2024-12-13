@@ -4,8 +4,8 @@ import setupSongs from './Songs'
 import setupState from './State'
 
 export default () => {
-  setupWindowController()
-  setupRouteController()
-  setupSongs()
-  setupState()
+    setupWindowController()
+    setupRouteController()
+    setupSongs()
+    setupState()
 }

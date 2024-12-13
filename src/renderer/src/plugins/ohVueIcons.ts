@@ -7,5 +7,5 @@ addIcons(...Object.values(IonIcons))
 addIcons(...Object.values(PrimeIcons))
 
 export function setupOhVueIcons(app: App) {
-  app.component('VIcon', OhVueIcon)
+    app.component('VIcon', OhVueIcon)
 }

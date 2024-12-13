@@ -7,11 +7,11 @@ const { params, query } = route
 const { path } = params
 
 router.replace({
-  path: `/${path}`,
-  query
+    path: `/${path}`,
+    query
 })
 </script>
 
 <template>
-  <div></div>
+    <div></div>
 </template>
