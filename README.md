@@ -1,34 +1,20 @@
-# monichat
+# Moni墨莉[README]
 
-An Electron application with Vue and TypeScript
+## 简介
 
-## Recommended IDE Setup
+一个简单、无广告的免费音乐播放器，目前只支持桌面端
 
-- [VSCode](https://code.visualstudio.com/) + [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) + [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin)
+## 功能
 
-## Project Setup
+-[x] 音乐播放
 
-### Install
+-[x] 音乐收藏
 
-```bash
-$ pnpm install
-```
+-[ ] 歌单
 
-### Development
+-[ ] 专辑
 
-```bash
-$ pnpm dev
-```
+## 项目开发
 
-### Build
-
-```bash
-# For windows
-$ pnpm build:win
-
-# For macOS
-$ pnpm build:mac
-
-# For Linux
-$ pnpm build:linux
-```
+> 如果你是开发人员，请点击右侧链接查阅开发文档
+> [Project Setup.md](./Project%20Setup.md)

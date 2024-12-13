@@ -7,12 +7,12 @@ const router = useRouter()
 const { ipcRenderer } = window.electron
 
 onMounted(async () => {
-  const routeName = await ipcRenderer.invoke(IpcChannel.REDIRECT_TO_LAYOUT_HOME)
-  await router.push({ name: routeName })
-  console.info(`Layout home is redirected to ${routeName} page`)
+    const routeName = await ipcRenderer.invoke(IpcChannel.REDIRECT_TO_LAYOUT_HOME)
+    await router.push({ name: routeName })
+    console.info(`Layout home is redirected to ${routeName} page`)
 })
 </script>
 
 <template>
-  <div></div>
+    <div></div>
 </template>
